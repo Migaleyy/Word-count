@@ -21,8 +21,8 @@ Anaconda - Python 3.7
 ## PROGRAM:
 ```
 '''
-Developed by: UDHAYA SANKARAN M
-Register number: 212222110051
+Developed by: Migal G Arunadann
+Register number: 212222110025
 '''
 fname = input('Enter file name: ')
 num_word = 0
